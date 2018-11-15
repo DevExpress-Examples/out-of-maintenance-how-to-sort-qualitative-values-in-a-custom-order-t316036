@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/QualitativeScaleCustomSortOrderSample/Form1.cs) (VB: [Form1.vb](./VB/QualitativeScaleCustomSortOrderSample/Form1.vb))**
+* [NumberComparer.cs](./CS/QualitativeScaleCustomSortOrderSample/NumberComparer.cs) (VB: [NumberComparer.vb](./VB/QualitativeScaleCustomSortOrderSample/NumberComparer.vb))
+<!-- default file list end -->
 # How to sort qualitative values in a custom order
 
 
